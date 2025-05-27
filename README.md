@@ -1,4 +1,4 @@
-# ✨ Deloitte Australia Technology Virtual Experience ✨
+# ✨ Deloitte Australia Technology and Cybersecurity Virtual Experience 
 
 I recently completed the **Deloitte Australia Technology Virtual Job Simulation** hosted on Forage (January 11, 2025). This program offered valuable exposure to the kind of work done by Deloitte's technology teams and helped me develop essential industry-relevant skills through real-world scenarios.
 
