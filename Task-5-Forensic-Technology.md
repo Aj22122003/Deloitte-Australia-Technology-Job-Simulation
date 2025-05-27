@@ -22,4 +22,4 @@ This investigation followed internal complaints about pay disparities and aimed 
  
 
 This task was particularly impactful as it combined technical skills with real-world social implications. 
-Using Excel to analyse and classify data allowed me to see how quantitative data could drive organisational change. The straightforward yet meaningful nature of the task made it both engaging and fulfillin
+Using Excel to analyse and classify data allowed me to see how quantitative data could drive organisational change. The straightforward yet meaningful nature of the task made it both engaging and fulfilling
